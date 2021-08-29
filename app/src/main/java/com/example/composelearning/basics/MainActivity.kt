@@ -1,4 +1,4 @@
-package com.example.composelearning
+package com.example.composelearning.basics
 
 import android.content.res.Configuration
 import android.os.Bundle
@@ -23,6 +23,7 @@ import androidx.compose.ui.unit.dp
 import com.example.composelearning.ui.theme.ComposeLearningTheme
 import androidx.compose.foundation.lazy.items
 import androidx.compose.runtime.*
+import com.example.composelearning.R
 
 
 class MainActivity : ComponentActivity() {

@@ -1,4 +1,4 @@
-package com.example.composelearning
+package com.example.composelearning.basics
 
 object SampleData {
     // Sample conversation data
